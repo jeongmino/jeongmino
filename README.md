@@ -12,7 +12,10 @@
 <tbody>
 <tr>
 <td align="center"><a href="https://solved.ac/jeongmino1207" rel="nofollow"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmino1207" alt="Solved.ac profile" style="max-width: 100%;"></a></td>
-<td align="center"><img src="https://badge42.vercel.app/api/v2/cl1lghcyu003009i75ac9q5x8/stats?cursusId=21&amp;coalitionId=85" alt="junoh's 42 stats" data-canonical-src="https://badge42.vercel.app/api/v2/cl1lghcyu003009i75ac9q5x8/stats?cursusId=21&amp;coalitionId=85" style="max-width: 100%;"></td>
+<td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clihggf1r007808jrdmmht6qm/stats?cursusId=21&coalitionId=85" alt="junoh's 42 stats" /></a></td>
+  
+  
+  
 <td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ad21954e20098eabbe54c5096762121f36b34ec851f56d446c96cdb4ae4f313/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b796a3933373930266c61796f75743d636f6d706163742662675f636f6c6f723d3138302c3030303030302c267469746c655f636f6c6f723d30303030303026746578745f636f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/9ad21954e20098eabbe54c5096762121f36b34ec851f56d446c96cdb4ae4f313/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b796a3933373930266c61796f75743d636f6d706163742662675f636f6c6f723d3138302c3030303030302c267469746c655f636f6c6f723d30303030303026746578745f636f6c6f723d303030303030" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyj93790&amp;layout=compact&amp;bg_color=180,000000,&amp;title_color=000000&amp;text_color=000000" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
