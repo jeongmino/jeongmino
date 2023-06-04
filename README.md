@@ -22,7 +22,8 @@
 <a href="mailto:jeongmino1207@gmail.com"> <img src="https://camo.githubusercontent.com/e58c2d4be8115b9eddeaefb150b3cfa333f15a758993e74f733b796b095db77e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333353f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=" style="max-width: 100%;"> </a>
 <a href="https://www.instagram.com/junoh_snowfall/" rel="nofollow"> <img src="https://camo.githubusercontent.com/f882f737d626c183617c7a295c466ee14dc48c2e7a552dd142a6db51cf751334/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=" style="max-width: 100%;"> </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongmino1207)](https://solved.ac/jeongmino1207/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmino1207)](https://solved.ac/jeongmino1207/)
 
 
 
