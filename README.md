@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Undergraduate student in the Dept. of IT Management at SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGYI. (Mar 2020 - )
+- Undergraduate student in the Dept. of IT Management at Seoultech and Northumbria Univ. (Mar 2020 - )
 - A 5th generation Cadet of 42 Seoul (Oct 2021 - )
 <!-- my status -->
 <table>
