@@ -7,7 +7,6 @@
 <thead>
 <tr>
 <th align="center">✨ <strong>BOJ stats</strong> ✨</th>
-<th align="center">✨ <strong>42 SEOUL stats</strong> ✨</th>
 <th align="center">✨ <strong>Language stats</strong> ✨</th>
 </tr>
 </thead>
