@@ -7,14 +7,15 @@
 <thead>
 <tr>
 <th align="center">✨ <strong>BOJ stats</strong> ✨</th>
+<th align="center">✨ <strong>42 SEOUL stats</strong> ✨</th>
 <th align="center">✨ <strong>Language stats</strong> ✨</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center"><a href="https://solved.ac/jeongmino1207" rel="nofollow"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmino1207" alt="Solved.ac profile" style="max-width: 100%;"></a></td>
-<td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clihggf1r007808jrdmmht6qm/stats?cursusId=21&coalitionId=85" alt="junoh's 42 stats" /></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmino&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmino&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" alt="Top languages" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/junoh?1337Badge=off&UM6P=off" alt="junoh's 42 stats" /></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmino&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmino&layout=compact&bg_color=180,000000&title_color=000000&text_color=000000" alt="Top languages" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
